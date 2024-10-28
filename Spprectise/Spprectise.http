@@ -1,0 +1,6 @@
+@Spprectise_HostAddress = http://localhost:5153
+
+GET {{Spprectise_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
